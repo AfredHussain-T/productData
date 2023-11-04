@@ -1,28 +1,64 @@
 {
-  "posts": [
+  "products": [
+    {
+      "id": 19,
+      "title": "Acer Extensa 15 Laptop | EX215-54 | Black",
+      "description": "Windows 10 Pro 64-bit, Intel® Core™ i5-1135G7 processor Quad-core 2.40 GHz, DDR4 SDRAM 512 GB SSD Intel® Iris Xe Graphics shared memory.",
+      "price": 34990,
+      "discountPercentage": 10.68,
+      "rating": 4.7,
+      "stock": 54,
+      "brand": "Acer",
+      "category": "Electronics",
+      "thumbnail": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___e__extensa-15-ex215-54-54g-bk_1000main_nx.egjek.00a.png?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg",
+      "images": [
+        "https://static2-ecemea.acer.com/media/catalog/product/_/_/___e__extensa-15-ex215-54-54g-bk_1000main_nx.egjek.00a.png?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:&format=jpeg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "iPhone 13",
+      "description": "6 GB RAM, 60 Hz refresh rate, Dual Camera, Image stabilisation.",
+      "price": 70000,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "brand": "Apple",
+      "category": "Electronics",
+      "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-starlight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1693064001768",
+      "images": [
+        "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-finish-select-202207-starlight?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1693064001768"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Apple Watch SE 2",
+      "description": "Apple smart watch SE 2, Water Proof, Cellular",
+      "price": 30000,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Apple",
+      "category": "Electronics",
+      "thumbnail": "https://images.macrumors.com/t/Sv6_zKFIJiPFRAHofURJWW5nXT4=/800x0/article-new/2022/09/apple-watch-se-2-circle.jpg?lossy",
+      "images": [
+        "https://images.macrumors.com/t/Sv6_zKFIJiPFRAHofURJWW5nXT4=/800x0/article-new/2022/09/apple-watch-se-2-circle.jpg?lossy"
+      ]
+    },
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "Sherwani",
+      "description": "Ethnic wear, Sherwani",
+      "price": 5499,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Manyawar",
+      "category": "Clothing",
+      "thumbnail": "https://5.imimg.com/data5/NR/AV/MY-2730475/stylish-sherwani-with-the-touch-of-golden-sequin-work-1000x1000.png",
+      "images": [
+      "https://5.imimg.com/data5/NR/AV/MY-2730475/stylish-sherwani-with-the-touch-of-golden-sequin-work-1000x1000.png"
+      ]
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "products" : [
-    {
-      "id": 1,
-      "name": "Cell",
-      "image": "nnnnnn",
-      "qty": 3,
-      "price": 4999
-    }
-  ]
+ ]
 }
